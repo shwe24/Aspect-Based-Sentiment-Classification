@@ -1,0 +1,2 @@
+# Aspect-Based-Sentiment-Classification
+Aspect Based Sentiment Analysis identifies the aspect terms and the sentiment polarity associated with each aspect term in the given review. In real-time, a business can be improved with the customer feedbacks about the features in the product like “The only thing I don't understand is that the resolution of the screen isn't high enough for some pages, such as Yahoo! Mail” based on these reviews the company can get the pitfall in the product which can be fixed for more profit.
